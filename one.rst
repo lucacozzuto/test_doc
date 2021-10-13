@@ -14,7 +14,7 @@ Add some text about the second paragraph
 
 Here an image
 
-.. image:: images/test.png
+.. image:: images/test.jpeg
   :width: 400
   
 
