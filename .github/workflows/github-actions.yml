@@ -1,2 +1,11 @@
-- name: Sphinx Pages
-  uses: seanzhengw/sphinx-pages@v1
+on: [push]
+
+jobs:
+  build:
+    name: Something
+    runs-on: ubuntu-latest
+    steps:
+    - uses: seanzhengw/sphinx-pages@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        create_readme: true
