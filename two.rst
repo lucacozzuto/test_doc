@@ -13,6 +13,12 @@ Code highlighted in python
 	# This program prints Hello, world!
 
 	print('Hello, world!')
+	weekdays = ["Sunday", "Monday", "Tuesday","Wednesday", "Thursday","Friday", "Saturday"]
+	print("The Weekdays are:\n")
+
+	for day in range(len(weekdays)):
+    		print(weekdays[day])
+		
 
 Some markdown is preserved like **Bold**, *Italics*, `Inline code`, etc.
 
