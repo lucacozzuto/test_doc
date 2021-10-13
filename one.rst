@@ -20,7 +20,7 @@ Here an image
 
 Here a sub paragraph
 ----------------
-Add some text about the sub paragraph. And here a `Link <https://www.google.com>`. 
+Add some text about the sub paragraph. And here a `Link <https://www.google.com>`__. 
 
 Some code below that will be interpreted as **console**
 
