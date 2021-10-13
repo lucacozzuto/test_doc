@@ -13,10 +13,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   about
-   first
-   second
-   third
-   fourth
+   one
+   two
 
 
