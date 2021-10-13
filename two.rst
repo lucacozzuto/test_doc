@@ -8,7 +8,7 @@ Some more examples:
 
 Code highlighted in python
 
-.. code-block:: guess
+.. code-block:: python
 
 	# This program prints Hello, world!
 
