@@ -30,6 +30,8 @@ Some code below that will be interpreted as **console**
 
 Other code that can be higlighted as **groovy**
 
+.. code-block:: groovy
+
 	#!/usr/bin/env nextflow
 	// This is a comment
 
