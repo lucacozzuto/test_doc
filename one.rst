@@ -1,7 +1,7 @@
 .. _first-page:
 
 *******************
-First Page // Big title
+First Page
 *******************
 
 Small title for the first paragraph
