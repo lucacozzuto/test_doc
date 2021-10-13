@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Sphinx Page GitHub Action'
+project = u'Test made by Luca Cozzuto using Sphinx Page GitHub Action'
 copyright = u'2019, Sean Zheng'
 author = u'Sean Zheng'
 
